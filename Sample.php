@@ -1,7 +1,6 @@
 <?php
 namespace Linice\Util;
 
-
 /**
  * 示例
  * @author los_gsy

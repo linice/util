@@ -1,7 +1,6 @@
 <?php
 namespace Linice\Util;
 
-
 /**
  * 模板类
  * @author los_gsy

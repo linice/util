@@ -1,4 +1,6 @@
 <?php
+namespace Linice\Util;
+
 /**
  * 加/解密
  * @author los_gsy
