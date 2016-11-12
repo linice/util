@@ -3,7 +3,7 @@ namespace Linice\Util;
 
 /**
  * 模板类
- * @author los_gsy
+ * @author los
  */
 class Tpl {
 	/**

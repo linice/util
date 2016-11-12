@@ -3,7 +3,7 @@ namespace Linice\Util;
 
 /**
  * 加/解密
- * @author los_gsy
+ * @author los
  */
 class Encrypt {
 	/**
